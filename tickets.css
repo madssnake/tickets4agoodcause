@@ -22,12 +22,12 @@ html {
     color: #121313;
 }
 body {
-    background-color: #f7e8a1;
+    background-color: #4fc8deff; /* <-- background color change, currently blue */
 }
 
 #outer_wrapper {
     /*line-height: 1;*/
-    background: #9fc41aff; /* <-- background color change, currently wicked green */
+    background: #9fc41aff;
     width: 960px;
     margin: 0 auto;
     height: 100%; }
