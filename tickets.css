@@ -22,7 +22,7 @@ html {
     color: #121313;
 }
 body {
-    background-color: #4fc8deff; /* <-- background color change, currently blue */
+    background-color: #f6c049; /* <-- background color change, currently yellow gold */
 }
 
 #outer_wrapper {
@@ -50,7 +50,7 @@ body {
     /*font-family: 'EB Garamond', serif;*/
     /* to include a site logo, use 'background-image:' here */
     height: 300px;
-    background-image: url("images/cabaret_hamilton.png"); /* <-- background image change */
+    background-image: url("images/hamilton.png"); /* <-- background image change */
     background-size: contain;
     background-position: center center;
     /*font-size: 400%;*/
